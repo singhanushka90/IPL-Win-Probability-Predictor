@@ -59,6 +59,7 @@ The project exposes a REST API using FastAPI, making it easy to integrate with w
 IPL-Win-Probability-Predictor
 │
 ├── main.py
+|__ipl_winner.ipynb
 ├── ipl_model.pkl
 ├── ipl_transformer.pkl
 ├── requirements.txt
