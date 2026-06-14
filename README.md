@@ -60,10 +60,10 @@ IPL-Win-Probability-Predictor
 │
 ├── main.py
 ├── ipl_model.pkl
-├── transformer.pkl
+├── ipl_transformer.pkl
 ├── requirements.txt
 ├── README.md
-└── dataset.csv
+└── deliveries.csv
 |__matches.csv
 ```
 
