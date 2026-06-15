@@ -32,7 +32,11 @@ class ChatRequest(BaseModel):
 
 @app.get("/home")
 def home():
-    return {"message":"This is IPL Winner Prediction Project"}
+    return {"status": "Healthy",
+           "service": "IPL-Predictor-API",
+           "version": "1.0.0",
+           "model_loaded": True,
+           "transformer_loaded": True}
 
 @app.post("/predict")
 def predict(data:ChatRequest):
