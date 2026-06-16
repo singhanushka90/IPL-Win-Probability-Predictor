@@ -120,7 +120,8 @@ Sample Input
   "runs_left":80,
   "balls_left":60,
   "wickets":6,
-  "total_runs_x":180
+  "total_runs_x":180,
+  "current_score":136
 }
 
 ---
