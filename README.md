@@ -75,7 +75,7 @@ IPL-Win-Probability-Predictor
 
 Clone Repository
 
-git clone https://github.com/YOUR_USERNAME/IPL-Win-Probability-Predictor.git
+git clone https://github.com/singhanushka90/IPL-Win-Probability-Predictor.git
 
 Move into Folder
 
