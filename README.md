@@ -33,13 +33,11 @@ The project demonstrates:
 - Data Preprocessing
 - FastAPI
 - REST APIs
-- Model Deployment
 
 ---
 
 # ✨ Features
 
-- 📊 Live Win Probability Prediction
 - ⚡ FastAPI REST API
 - 🤖 Machine Learning Model
 - 📈 Probability Output
